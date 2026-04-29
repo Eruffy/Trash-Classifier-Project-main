@@ -1,7 +1,7 @@
 # Trash Classifier Project
 
 ## Repository
-🔗 **GitHub:** [https://github.com/AboDa7mZ/Trash-Classifier-Project.git](https://github.com/AboDa7mZ/Trash-Classifier-Project.git)
+🔗 **GitHub:** [https://github.com/Eruffy/Trash-Classifier-Project-main.git](https://github.com/Eruffy/Trash-Classifier-Project-main.git)
 
 ## Quick Start
 
