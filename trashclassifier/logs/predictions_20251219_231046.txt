@@ -1,0 +1,26 @@
+Timestamp,Frame,SVM_Class,SVM_Confidence,KNN_Class,KNN_Confidence
+2025-12-19 23:10:49,1,Cardboard,0.9468,Cardboard,1.0000
+2025-12-19 23:10:49,2,Cardboard,0.9294,Cardboard,1.0000
+2025-12-19 23:10:50,3,Cardboard,0.9177,Cardboard,1.0000
+2025-12-19 23:10:50,4,Cardboard,0.9195,Cardboard,1.0000
+2025-12-19 23:10:51,5,Cardboard,0.8971,Cardboard,1.0000
+2025-12-19 23:10:51,6,Cardboard,0.8786,Cardboard,1.0000
+2025-12-19 23:10:52,7,Cardboard,0.9563,Cardboard,1.0000
+2025-12-19 23:10:52,8,Cardboard,0.8668,Cardboard,1.0000
+2025-12-19 23:10:53,9,Cardboard,0.8393,Cardboard,1.0000
+2025-12-19 23:10:53,10,Cardboard,0.8778,Cardboard,1.0000
+2025-12-19 23:10:54,11,Cardboard,0.8660,Cardboard,1.0000
+2025-12-19 23:10:54,12,Cardboard,0.9048,Cardboard,1.0000
+2025-12-19 23:10:55,13,Cardboard,0.9669,Cardboard,1.0000
+2025-12-19 23:10:55,14,Cardboard,0.8606,Cardboard,1.0000
+2025-12-19 23:10:56,15,Cardboard,0.9412,Cardboard,1.0000
+2025-12-19 23:10:56,16,Cardboard,0.9436,Cardboard,1.0000
+2025-12-19 23:10:56,17,Cardboard,0.9600,Cardboard,1.0000
+2025-12-19 23:10:57,18,Cardboard,0.9073,Cardboard,1.0000
+2025-12-19 23:10:57,19,Cardboard,0.7882,Cardboard,1.0000
+2025-12-19 23:10:58,20,Cardboard,0.8786,Cardboard,1.0000
+2025-12-19 23:10:58,21,Cardboard,0.8810,Cardboard,1.0000
+2025-12-19 23:10:59,22,Cardboard,0.8675,Cardboard,1.0000
+2025-12-19 23:10:59,23,Cardboard,0.8601,Cardboard,1.0000
+2025-12-19 23:11:00,24,Cardboard,0.8790,Cardboard,1.0000
+2025-12-19 23:11:00,25,Cardboard,0.8722,Cardboard,1.0000
